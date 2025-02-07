@@ -2,22 +2,14 @@
 
 ## 오늘 내가 배운 것들(Today I Learned)
 
-### [4월 첫째주, 1주차] : html, css
+### [2월 첫째주, 2주차] : 시스템 아키텍처 설계
 
-24.04.05 세부 주제 4 작성 (상세 내역 링크)
+25.02.03 시스템 아키텍처 설계 ([상세 내역 링크](https://github.com/Parkyuchan/ethan-til/blob/main/Jan/2025-02-03.md))
 
-24.04.04 세부 주제 3 작성 (상세 내역 링크)
+25.02.04 스레드 ([상세 내역 링크](https://github.com/Parkyuchan/ethan-til/blob/main/Jan/2025-02-04.md))
 
-24.04.03 세부 주제 2 작성 (상세 내역 링크)
+25.02.05 블로킹/논블로킹 ([상세 내역 링크](https://github.com/Parkyuchan/ethan-til/blob/main/Jan/2025-02-05.md))
 
-24.04.02 세부 주제 1 작성 (상세 내역 링크)
+25.02.06 동시성/병렬성 ([상세 내역 링크](https://github.com/Parkyuchan/ethan-til/blob/main/Jan/2025-02-06.md))
 
-### [n월 n째주, n주차] : 간략 주제 작성 
-
-yy.mm.dd 세부 주제 4 작성 (상세 내역 링크)
-
-yy.mm.dd 세부 주제 3 작성 (상세 내역 링크)
-
-yy.mm.dd 세부 주제 2 작성 (상세 내역 링크)
-
-yy.mm.dd 세부 주제 1 작성 ([상세 내역 링크](https://github.com/kakao-cloud-edu-5/til-template/blob/main/Jan/yyyy-mm-dd))
+25.02.07 자바 직렬화/역직렬화, Thread-Safe ([상세 내역 링크](https://github.com/Parkyuchan/ethan-til/blob/main/Jan/2025-02-07.md))
