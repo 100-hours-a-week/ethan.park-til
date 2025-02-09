@@ -13,3 +13,5 @@
 25.02.06 동시성/병렬성 ([상세 내역 링크](https://github.com/Parkyuchan/ethan-til/blob/main/Jan/2025-02-06.md))
 
 25.02.07 자바 직렬화/역직렬화, Thread-Safe ([상세 내역 링크](https://github.com/Parkyuchan/ethan-til/blob/main/Jan/2025-02-07.md))
+
+25.02.09 자바 스레드 실습 ([상세 내역 링크](https://github.com/Parkyuchan/ethan-til/blob/main/Jan/2025-02-09.md))
