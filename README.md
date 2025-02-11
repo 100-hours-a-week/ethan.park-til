@@ -1,8 +1,6 @@
-# til-template
-
 ## 오늘 내가 배운 것들(Today I Learned)
 
-### [2월 첫째주, 2주차] : 시스템 아키텍처 설계
+### [2월 1주차]
 
 25.02.03 시스템 아키텍처 설계 ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.park-til/blob/main/Feb/2025-02-03.md))
 
@@ -16,4 +14,8 @@
 
 25.02.09 자바 스레드 실습 ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.park-til/blob/main/Feb/2025-02-09.md))
 
+### [2월 2주차]
+
 25.02.10 동기화와 락 ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.park-til/blob/main/Feb/2025-02-10.md))
+
+25.02.11 2주차 과제 마무리, 전략 패턴 ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.park-til/blob/main/Feb/2025-02-11.md))
