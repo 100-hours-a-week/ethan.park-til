@@ -19,3 +19,5 @@
 25.02.10 동기화와 락 ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.park-til/blob/main/Feb/2025-02-10.md))
 
 25.02.11 2주차 과제 마무리, 전략 패턴 ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.park-til/blob/main/Feb/2025-02-11.md))
+
+25.02.12 TCP/UDP, 대칭키/비대칭키 ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.park-til/blob/main/Feb/2025-02-12.md))
