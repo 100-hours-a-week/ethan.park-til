@@ -23,3 +23,7 @@
 25.02.12 TCP/UDP, 대칭키/비대칭키 ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.park-til/blob/main/Feb/2025-02-12.md))
 
 25.02.13 JWT ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.park-til/blob/main/Feb/2025-02-13.md))
+
+25.02.14 JWT ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.park-til/blob/main/Feb/2025-02-14.md))
+
+25.02.16 JWT ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.park-til/blob/main/Feb/2025-02-16.md))
