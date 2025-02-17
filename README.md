@@ -24,10 +24,10 @@
 
 25.02.13 JWT ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.park-til/blob/main/Feb/2025-02-13.md))
 
-25.02.14 JWT ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.park-til/blob/main/Feb/2025-02-14.md))
+25.02.14 브라우저 동작 방식 ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.park-til/blob/main/Feb/2025-02-14.md))
 
-25.02.16 JWT ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.park-til/blob/main/Feb/2025-02-16.md))
+25.02.16 커뮤니티 제작(3주차 과제) ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.park-til/blob/main/Feb/2025-02-16.md))
 
 ### [2월 3주차]
 
-25.02.17 JWT ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.park-til/blob/main/Feb/2025-02-17.md))
+25.02.17 쿠키, 세션, 스토리지 ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.park-til/blob/main/Feb/2025-02-17.md))
