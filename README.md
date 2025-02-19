@@ -33,3 +33,5 @@
 25.02.17 쿠키, 세션, 스토리지 ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.park-til/blob/main/Feb/2025-02-17.md))
 
 25.02.18 WebSocket ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.park-til/blob/main/Feb/2025-02-18.md))
+
+25.02.19 프로그래밍 패러다임, 순수 함수 ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.park-til/blob/main/Feb/2025-02-19.md))
