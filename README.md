@@ -39,3 +39,5 @@
 25.02.20 Promise, 자바스크립트 엔진 ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.park-til/blob/main/Feb/2025-02-20.md))
 
 25.02.22 JS 기초 ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.park-til/blob/main/Feb/2025-02-22.md))
+
+25.02.23 HTML, CSS 강의 ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.park-til/blob/main/Feb/2025-02-23.md))
