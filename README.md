@@ -42,6 +42,11 @@
 
 25.02.23 HTML, CSS 강의 ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.park-til/blob/main/Feb/2025-02-23.md))
 
+
+### [2월 4주차]
+
 25.02.24 Execution Context ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.park-til/blob/main/Feb/2025-02-24.md))
 
 25.02.25 해커톤 팀 빌딩 ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.park-til/blob/main/Feb/2025-02-25.md))
+
+25.02.26 해커톤 팀 빌딩 ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.park-til/blob/main/Feb/2025-02-26.md))
