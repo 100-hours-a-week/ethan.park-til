@@ -50,3 +50,7 @@
 25.02.25 해커톤 팀 빌딩 ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.park-til/blob/main/Feb/2025-02-25.md))
 
 25.02.26 ~ 25.02.28 해커톤 진행 ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.park-til/blob/main/Feb/2025-02-26.md))
+
+### [3월 1주차]
+
+25.03.03 JS 복습 및 개인 공부 ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.park-til/blob/main/Feb/2025-03-03.md))
