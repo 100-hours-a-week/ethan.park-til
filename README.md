@@ -53,4 +53,8 @@
 
 ### [3월 1주차]
 
-25.03.03 JS 복습 및 개인 공부 ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.park-til/blob/main/Feb/2025-03-03.md))
+25.03.03 JS 복습 및 개인 공부 ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.park-til/blob/main/Mar/2025-03-03.md))
+
+25.03.04 DB ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.park-til/blob/main/Mar/2025-03-04.md))
+
+25.03.05 DB + 스프링 ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.park-til/blob/main/Mar/2025-03-05.md))
