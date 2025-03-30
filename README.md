@@ -58,3 +58,5 @@
 25.03.04 DB ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.park-til/blob/main/Mar/2025-03-04.md))
 
 25.03.05 DB + 스프링 ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.park-til/blob/main/Mar/2025-03-05.md))
+
+25.03.30 테스트 코드 네이밍 작성 ([상세 내역 링크](https://github.com/100-hours-a-week/ethan.park-til/blob/main/Mar/2025-03-30.md))
